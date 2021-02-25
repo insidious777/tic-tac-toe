@@ -1,0 +1,11 @@
+.Square{
+    box-sizing: border-box;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    border: 2px solid black;
+}
